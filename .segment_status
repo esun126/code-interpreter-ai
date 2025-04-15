@@ -1,0 +1,81 @@
+{
+  "project_name": "CodeInterpreter AI",
+  "last_updated": "2025-04-15T11:22:59Z",
+  "segments": {
+    "S1": {
+      "status": "completed",
+      "description": "完成项目初始化与前端基础开发",
+      "last_updated": "2025-04-15T11:22:59Z"
+    }
+  },
+  "files": {
+    "/Users/ysun/Documents/github": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/README.md": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/backend/app/__init__.py": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/backend/app/main.py": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/backend/requirements.txt": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/frontend/package.json": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/frontend/public/index.html": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/frontend/public/manifest.json": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/frontend/src/App.css": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/frontend/src/App.js": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/frontend/src/index.css": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/frontend/src/index.js": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/frontend/src/reportWebVitals.js": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/resume_development.sh": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/segment_templates/S1_template.md": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/update_segment.sh": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    },
+    "repo/teacher-tracking-sheet/code-interpreter-ai/segment_templates/S2_template.md": {
+      "hash": "",
+      "last_updated": "2025-04-15T11:22:59Z"
+    }
+  }
+}
